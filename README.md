@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @stalinbritto86
-- 👀 I’m interested in web developing.
-- 🌱 I’m currently learning php laravel.
+- 👋 Hi, I’m Stalin Britto
 
 <!---
 stalinbritto86/stalinbritto86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
